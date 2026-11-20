@@ -4,7 +4,7 @@ FitLog is a dark, no-nonsense gym companion: pick a lift, lock it into today's p
 
 ## Live Demo
 
-[Add your deployed Vercel link here](https://vercel.com)
+[Add your deployed Vercel link here](https://assignment6-nextjs-five.vercel.app/)
 
 ## Tech Stack
 
